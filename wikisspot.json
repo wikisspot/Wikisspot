@@ -1,0 +1,39 @@
+{
+  "name": "Wikisspot",
+  "short_name": "Wikisspot",
+  "scope": "https://wikisspot.com",
+  "start_url": "https://wikisspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "wikisspot is an information website about tutorials, game info, and other general information. You can get interesting information only at Gameus",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknA4UFRj1c-lpTN36vQgHdIMQju7jCdwwo1GA0iBOaHb5myB7hazJu130ZBYWYEVF-wp8DrB0YGtH7d1US1yIZgtJaWNZpZ-5VoW4si7ru_syeredMJJ7ssxaYRSlhuFpqqEliwQ04NCOImrSUez35FbeejtvGy6qF4_jf9qn_hmHiLzxf-dPrw/s48/wikisspot%20favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknA4UFRj1c-lpTN36vQgHdIMQju7jCdwwo1GA0iBOaHb5myB7hazJu130ZBYWYEVF-wp8DrB0YGtH7d1US1yIZgtJaWNZpZ-5VoW4si7ru_syeredMJJ7ssxaYRSlhuFpqqEliwQ04NCOImrSUez35FbeejtvGy6qF4_jf9qn_hmHiLzxf-dPrw/s72/wikisspot%20favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknA4UFRj1c-lpTN36vQgHdIMQju7jCdwwo1GA0iBOaHb5myB7hazJu130ZBYWYEVF-wp8DrB0YGtH7d1US1yIZgtJaWNZpZ-5VoW4si7ru_syeredMJJ7ssxaYRSlhuFpqqEliwQ04NCOImrSUez35FbeejtvGy6qF4_jf9qn_hmHiLzxf-dPrw/s96/wikisspot%20favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknA4UFRj1c-lpTN36vQgHdIMQju7jCdwwo1GA0iBOaHb5myB7hazJu130ZBYWYEVF-wp8DrB0YGtH7d1US1yIZgtJaWNZpZ-5VoW4si7ru_syeredMJJ7ssxaYRSlhuFpqqEliwQ04NCOImrSUez35FbeejtvGy6qF4_jf9qn_hmHiLzxf-dPrw/s144/wikisspot%20favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknA4UFRj1c-lpTN36vQgHdIMQju7jCdwwo1GA0iBOaHb5myB7hazJu130ZBYWYEVF-wp8DrB0YGtH7d1US1yIZgtJaWNZpZ-5VoW4si7ru_syeredMJJ7ssxaYRSlhuFpqqEliwQ04NCOImrSUez35FbeejtvGy6qF4_jf9qn_hmHiLzxf-dPrw/s168/wikisspot%20favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknA4UFRj1c-lpTN36vQgHdIMQju7jCdwwo1GA0iBOaHb5myB7hazJu130ZBYWYEVF-wp8DrB0YGtH7d1US1yIZgtJaWNZpZ-5VoW4si7ru_syeredMJJ7ssxaYRSlhuFpqqEliwQ04NCOImrSUez35FbeejtvGy6qF4_jf9qn_hmHiLzxf-dPrw/s192/wikisspot%20favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknA4UFRj1c-lpTN36vQgHdIMQju7jCdwwo1GA0iBOaHb5myB7hazJu130ZBYWYEVF-wp8DrB0YGtH7d1US1yIZgtJaWNZpZ-5VoW4si7ru_syeredMJJ7ssxaYRSlhuFpqqEliwQ04NCOImrSUez35FbeejtvGy6qF4_jf9qn_hmHiLzxf-dPrw/s512/wikisspot%20favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
